@@ -11,11 +11,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>
   
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/vscode.svg" height="40" style="vertical-align:down; margin:4px" alt="vscode">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/vue.svg" height="40" style="vertical-align:down; margin:4px" alt="vue">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/git.svg" height="40" style="vertical-align:down; margin:4px" alt="git">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/css3.svg" height="40" style="vertical-align:down; margin:4px" alt="css">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="html5">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/sass.svg" height="40" style="vertical-align:down; margin:4px" alt="sass">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/vscode.svg" height="40" style="vertical-align:down; margin:4px" alt="vscode">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/vue.svg" height="40" style="vertical-align:down; margin:4px" alt="vue">
+
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/nuxt.svg" height="40" style="vertical-align:down; margin:4px" alt="nuxt">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/git.svg" height="40" style="vertical-align:down; margin:4px" alt="git">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/css3.svg" height="40" style="vertical-align:down; margin:4px" alt="css">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="html5">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a3250a9c76f8d3860516c0d6801d8d972b653a8d/assets/sass.svg" height="40" style="vertical-align:down; margin:4px" alt="sass">
 </p>
