@@ -10,10 +10,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 **Languages and Tools:**
 
 <p>
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/vue.svg" height="40" style="vertical-align:down; margin:4px" alt="vue">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/git.svg" height="40" style="vertical-align:down; margin:4px" alt="git">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/css3.svg" height="40" style="vertical-align:down; margin:4px" alt="css">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="html5">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/6d41c9f2da3aa811158964c5304318db52c2f215/assets/sass.svg" height="40" style="vertical-align:down; margin:4px" alt="sass">
+  
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/vscode.svg" height="40" style="vertical-align:down; margin:4px" alt="vscode">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/vue.svg" height="40" style="vertical-align:down; margin:4px" alt="vue">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/git.svg" height="40" style="vertical-align:down; margin:4px" alt="git">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/css3.svg" height="40" style="vertical-align:down; margin:4px" alt="css">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="html5">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://raw.githubusercontent.com/lcijoyce622/lcijoyce/a11e1a05c8b4587119fa6d7240a2548dff2a9eb7/assets/sass.svg" height="40" style="vertical-align:down; margin:4px" alt="sass">
 </p>
